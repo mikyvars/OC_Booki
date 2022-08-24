@@ -1,0 +1,11 @@
+{
+  "name": "p2_yvars_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./src/sass/style.scss:./src/css/style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
